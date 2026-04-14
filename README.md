@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23567956)
 # DS 101 — Mapping Emotions: Reddit Sentiment Analysis
 
 Welcome to your Codespace! Everything you need is already installed. No setup required — just open a lesson and start working.
